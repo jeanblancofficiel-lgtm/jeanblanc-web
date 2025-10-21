@@ -1,3 +1,9 @@
+---
+layout: page
+title: "welcome"
+permalink: /https://jeanblancofficiel-lgtm.github.io/jeanblanc-web/welcome
+---
+
 Page internet du groupe de musique Jeanblanc.
 
 Retouvez notre actualité sur :
